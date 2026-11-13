@@ -1,0 +1,1 @@
+"""Causal smoothing diagnostics for the revised turning-point framework."""
